@@ -14,4 +14,9 @@
   koa2 -e koa-weibo   // koa2 为版本, -e 为模板,  koa-weibo 为项目名称
 ```
 
+>  配置环境变量工具
+
+- 环境变量插件使用 `cross-env`
+
+- `package.json` 中使用不同环境
 
