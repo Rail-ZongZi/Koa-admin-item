@@ -1,0 +1,28 @@
+{
+  "name": "koa-mongodb-zhihu",
+  "version": "1.0.0",
+  "description": "基于koa一系列的 学习知识点",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rail-ZongZi/Koa-admin-item.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rail-ZongZi/Koa-admin-item/issues"
+  },
+  "homepage": "https://github.com/Rail-ZongZi/Koa-admin-item#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^8.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
